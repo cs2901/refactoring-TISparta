@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="803afbcf-ff1f-453f-811f-3501f4fc4738" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simplifying_conditional_expressions/replace-nested-conditional-with-guard-clauses_before.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simplifying_conditional_expressions/replace-nested-conditional-with-guard-clauses_before.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/organizing_data/replace-magic-number-with-symbolic-constant_before.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/organizing_data/replace-magic-number-with-symbolic-constant_before.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,10 +15,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/simplifying_conditional_expressions/replace-nested-conditional-with-guard-clauses_before.java">
+        <entry file="file://$PROJECT_DIR$/src/organizing_data/replace-magic-number-with-symbolic-constant_before.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+            <state relative-caret-position="30">
+              <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -38,6 +38,7 @@
         <option value="$PROJECT_DIR$/src/simplifying_conditional_expressions/consolidate-conditional-expression_before.java" />
         <option value="$PROJECT_DIR$/src/simplifying_conditional_expressions/decompose-conditional_before.java" />
         <option value="$PROJECT_DIR$/src/simplifying_conditional_expressions/replace-nested-conditional-with-guard-clauses_before.java" />
+        <option value="$PROJECT_DIR$/src/organizing_data/replace-magic-number-with-symbolic-constant_before.java" />
       </list>
     </option>
   </component>
@@ -81,6 +82,12 @@
               <item name="refactoring-TISparta" type="b2602c69:ProjectViewProjectNode" />
               <item name="refactoring-TISparta" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="organizing_data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="refactoring-TISparta" type="b2602c69:ProjectViewProjectNode" />
+              <item name="refactoring-TISparta" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="simplifying_conditional_expressions" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -93,7 +100,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559574894694" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559575082937" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
   </component>
@@ -526,9 +533,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/organizing_data/replace-magic-number-with-symbolic-constant_before.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/simplifying_conditional_expressions/consolidate-conditional-expression_before.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -545,8 +549,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/simplifying_conditional_expressions/replace-nested-conditional-with-guard-clauses_before.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        <state relative-caret-position="45">
+          <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/organizing_data/replace-magic-number-with-symbolic-constant_before.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
         </state>
       </provider>
     </entry>
